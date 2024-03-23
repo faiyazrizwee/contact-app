@@ -1,0 +1,47 @@
+form {
+    margin: 50px 70px;
+}
+
+.input-fields-container {
+    margin: 20px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    color: #cedbc8;
+    font-size: 3rem;
+}
+
+.input-fields {
+    height: 40px;
+    width: 500px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 2rem;
+    background-color: #bdd1b4;
+}
+
+.address {
+    height: 100px;
+}
+
+.save-btn {
+    font-size: 2rem;
+    padding: 8px 14px;
+    border: none;
+    margin: 12px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.save-btn:hover {
+    background-color: gray;
+    color: #efefef;
+}

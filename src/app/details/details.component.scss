@@ -1,0 +1,51 @@
+.main-container {
+    display: flex;
+    margin: 60px 100px;
+    gap: 150px;
+}
+
+.user-details {
+    color: #FBFADA;
+    font-size: 3rem;
+}
+
+.name,
+.phone {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.phone,
+.email,
+.address {
+    padding: 12px 0;
+}
+
+.button {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    margin: 6px;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.update {
+    color: #efefef;
+    background-color: #7f7e6b;
+}
+
+.update:hover {
+    background-color: #b9b89d;
+    cursor: pointer;
+}
+
+.delete {
+    color: #efefef;
+    background-color: rgb(140, 5, 5);
+}
+
+.delete:hover {
+    background-color: red;
+    cursor: pointer;
+}
