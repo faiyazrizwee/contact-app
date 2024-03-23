@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Ammi",
+      "phone": "12323232323",
+      "email": "",
+      "address": "",
+      "id": "9783"
+    },
+    {
+      "name": "Monu ",
+      "phone": "435454543",
+      "email": "",
+      "address": "",
+      "id": "ba66"
+    },
+    {
+      "name": "Danish jalebi",
+      "phone": "676575676",
+      "email": "",
+      "address": "",
+      "id": "f2dc"
+    },
+    {
+      "id": "2458",
+      "name": "Md Faiyaz",
+      "phone": "76867878",
+      "email": "",
+      "address": ""
+    },
+    {
+      "id": "0f7e",
+      "name": "new ",
+      "phone": "12345",
+      "email": "",
+      "address": ""
+    }
+  ]
+}
